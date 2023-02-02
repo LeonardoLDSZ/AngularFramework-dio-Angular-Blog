@@ -1,3 +1,11 @@
+
+Blog criado utilizando angular e feito deploy no vercel: https://angular-framework-dio-angular-blog.vercel.app/
+
+
+_________________
+
+
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
