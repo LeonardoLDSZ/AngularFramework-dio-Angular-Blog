@@ -2,6 +2,27 @@
 Blog criado utilizando angular e feito deploy no vercel: https://angular-framework-dio-angular-blog.vercel.app/
 
 
+
+
+
+
+
+
+
+[screen-capture (3).webm](https://user-images.githubusercontent.com/57837644/216306681-3c664e04-13de-4f65-8c8e-21a0b38fedbc.webm)
+
+
+
+
+
+
+
+
+
+
+
+
+
 _________________
 
 
